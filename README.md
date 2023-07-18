@@ -1,7 +1,5 @@
-# Noise and Temperature Meter
+# Noctua Fan Control
 
-![noise_meter](png/noise_temp_meter_600.png "noise_meter")
+![fan control](png/fan_control_x2_800.png "fan control")
 
-## All infos on: <https://www.weigu.lu/microcontroller/noise_temp_meter/index.html>
-
-![noise_meter openhab](png/noise_temp_openhab_600.png "noise_meter openhab")
+## All infos on: <https://www.weigu.lu/microcontroller/fan_control/index.html>
